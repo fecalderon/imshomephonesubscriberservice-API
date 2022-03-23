@@ -19,3 +19,6 @@ Payload Instruction:
 1. Please download the "WPWA Exam.postman_collection.json" file as this will be our payload
 2. Import it to your Postman Application
 3. You may test Get, Post, Get by Phone Number, Update, and Delete functionalities
+
+
+Thank you and have fun! :)
