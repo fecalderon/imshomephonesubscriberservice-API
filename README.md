@@ -2,7 +2,7 @@
 
 Instructions:
 1. Download the zip file and extract it
-2. Change the folder/project name to "imshomephonesubscriberservice"
+2. Rename the folder/project to "imshomephonesubscriberservice"
 3. Open the project with your IDE
 4. Let your IDE download the dependencies
 5. Add new configuration for Run
